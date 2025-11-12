@@ -1,0 +1,4 @@
+name = "SOSKernels"
+uuid = "520e6c2b-0ee0-40c2-a0b0-3e74efa0ce3e"
+version = "0.1.0"
+authors = ["Lorenzo Shaikewitz <lorenzos@mit.edu>"]
