@@ -1,4 +1,4 @@
-name = "SOSKernels"
-uuid = "520e6c2b-0ee0-40c2-a0b0-3e74efa0ce3e"
-version = "0.1.0"
-authors = ["Lorenzo Shaikewitz <lorenzos@mit.edu>"]
+[deps]
+Convex = "f65535da-76fb-5f13-bab9-19810c17039a"
+MosekTools = "1ec41992-ff65-5c91-ac43-2df89e9693a4"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
